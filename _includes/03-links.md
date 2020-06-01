@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+[Personal GitHub page](https://github.com/huwrees)
+[GitHub Training Kit: Cheatsheets] (https://github.com/github/training-kit)
