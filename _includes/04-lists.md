@@ -1,1 +1,14 @@
-Replace this with a list of your favorite things.
+##### My favourite things
+- Exercise
+  - Gymnastics or Calisthenics
+  - Short Runs
+  - Climbing
+  - Lifting
+- Food
+  - Cheese
+  - Fruit
+  - 
+- Drink
+  - Coffee (Really need to stop drinking this)
+  - Water (Really is my favourite drink)
+  - Hipster IPAs and Pale Ales
